@@ -1,0 +1,1 @@
+A projet to deploy poseidonx on k8 cluster with a single nodes running mysql, app, nginx server and memcache with 8 replicas for auto scaling, load balancing and self healing.
